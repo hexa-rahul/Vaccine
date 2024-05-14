@@ -1,0 +1,2 @@
+Start project with following commands :
+- npx create-react-app . or npx create-react-app project_name
