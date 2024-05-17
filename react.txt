@@ -1,2 +1,12 @@
 Start project with following commands :
+
+1. Create project with the help of react command : 
+
 - npx create-react-app . or npx create-react-app project_name
+
+2. Install react router dom & Bootstrap, react bootstrap
+
+- npm install react-router-dom
+- npm install bootstrap
+- npm install react-bootstrap bootstrap
+

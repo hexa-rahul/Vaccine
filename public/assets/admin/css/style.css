@@ -1,0 +1,11 @@
+body {
+    background: #f2f2f2;
+}
+.card.o-hidden.border-0.shadow-lg.my-5 {
+    background-color: #ffffff;
+}
+.text-gray-900 {
+    color: #3a3b45 !important;
+    font-weight: bold;
+    margin-bottom: 3.5rem!important;
+}
